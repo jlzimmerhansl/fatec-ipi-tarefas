@@ -1,3 +1,6 @@
 [submodule "fatec_ipi_noite_20202_pdm_cadastro"]
 	path = fatec_ipi_noite_20202_pdm_cadastro
 	url = https://github.com/jlzimmerhansl/fatec_ipi_noite_20202_pdm_cadastro.git
+[submodule "fatec-ipi-app-lembretes"]
+	path = fatec-ipi-app-lembretes
+	url = https://github.com/jlzimmerhansl/fatec-ipi-app-lembretes.git
