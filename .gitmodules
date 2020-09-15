@@ -7,3 +7,6 @@
 [submodule "fatec-ipi-pdm-noite-OneCallApi"]
 	path = fatec-ipi-pdm-noite-OneCallApi
 	url = https://github.com/jlzimmerhansl/fatec-ipi-pdm-noite-OneCallApi.git
+[submodule "fate-ipi-pdm-noite-previsao-tempo"]
+	path = fate-ipi-pdm-noite-previsao-tempo
+	url = https://github.com/jlzimmerhansl/fate-ipi-pdm-noite-previsao-tempo.git
