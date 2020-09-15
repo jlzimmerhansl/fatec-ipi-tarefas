@@ -4,3 +4,6 @@
 [submodule "fatec-ipi-app-lembretes"]
 	path = fatec-ipi-app-lembretes
 	url = https://github.com/jlzimmerhansl/fatec-ipi-app-lembretes.git
+[submodule "fatec-ipi-pdm-noite-OneCallApi"]
+	path = fatec-ipi-pdm-noite-OneCallApi
+	url = https://github.com/jlzimmerhansl/fatec-ipi-pdm-noite-OneCallApi.git
