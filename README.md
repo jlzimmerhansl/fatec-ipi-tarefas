@@ -1,4 +1,4 @@
-<h2 align="center" height="50">
+<h2 align="center" width:"40">
     <img alt="Logo Fatec" title="Fatec" src=".github/logo.png">
 </h2>
 
